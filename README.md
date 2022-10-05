@@ -1,7 +1,6 @@
-### kitar-challenge-unity ###
-
-
 # README #
+
+### kitar-challenge-unity ###
 
 ### Project Setup ###
 
